@@ -24,5 +24,4 @@ resource "aws_elb" "bar" {
     Name = "raham-tf-elb"
   }
 }
-manideep
-manideep
+
